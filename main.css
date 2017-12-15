@@ -5,8 +5,18 @@ body{
 }
 #nav-logo {
   font-size: 3em;
-  padding: 4rem;
+  padding: 2rem ;
   color: #ffffff;
+}
+#connect-home {
+  width: auto;
+}
+#connect-home-ul {
+  color: gray;
+  font-size: 1.5rem;
+}
+#signup-home {
+  width: 350px;
 }
 nav input {
   margin-top: 1rem;
@@ -40,7 +50,7 @@ footer {
 }
 section {
   float:left;
-  background-color: lightgray;
+  /*background-color: lightgray;*/
   padding: 2rem;
   height: auto;
 }
